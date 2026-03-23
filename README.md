@@ -240,12 +240,4 @@ This project transforms hostel food management from:
 
 A small system… that quietly saves **money, food, and resources** every single day 🍽️✨
 
----
 
-If you want, I can next:
-
-* 🔥 Make this README *GitHub premium style* (with badges, icons, banners)
-* 🎯 Help you write **resume bullet points from this project**
-* 💬 Or prepare **interview answers based on this project**
-
-Just say 👍
