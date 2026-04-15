@@ -17,7 +17,7 @@ Run:
     python train_model.py    — trains and saves model + metadata
 """
 
-#importing libraries
+#importing nessesary libraries
 import numpy as np
 import pandas as pd
 import joblib
